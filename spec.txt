@@ -1,0 +1,15 @@
+Kindly note the following:
+From the power side:
+That is the solar and grid
+We are suppose to give priority to solar pv module if it reaches the requirements I.e the amount of current and voltage...
+The current sensor and voltage sensor/potential divider will indicate the amount of power consumed in the house.
+We need to know the real,apparent and reactive power.
+The lcd display1 acts as the display meter that indicates the number of units consumed from the grid , solar and also the one fed back to the grid.
+The data can be stored in a centralised database system. And uploaded to grafana for visualisation 
+The GSM module is to help with kununua tokens na kumake inquiry of the amount of power units remaining 
+Hapo mahali unaona consumer unit box...yani contractors relays na circuit breakers...
+Is where load selection is done...
+We will have current sensors and voltage sensor or potential divider to know the amount drawn by the loads in general socket light and gas cooker c unajua each of them have CBs that have their own rating Additionally like light 5A socket 15A gas 30A. 
+So yes we can have intentional blackout of socket or lights or gas depending on the user 
+Alafu kwa lighting system 
+Unaeza weka LDR na ultra sonic sensor kuonyesha how effective the system can be on the lighting side to control the on and off of the light
